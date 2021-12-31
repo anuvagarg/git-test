@@ -2,3 +2,5 @@ Hello World!
 inserted more text
 adding stuff for modified commit
 made a change for merge conflict
+better-feature
+does it create a conflict?
